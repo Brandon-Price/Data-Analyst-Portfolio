@@ -14,7 +14,7 @@ This repository is going to be used to track my progress in Data Analytics and D
 
 ## Portfolio Projects
 
-### **Hollywood Movie Production Analysis Data**
+#### **Hollywood Movie Production Analysis Data**
 
 The dataset includes data from 2007 - 2012. The data in the set includes the year of the movies release, the audience score, the lead studio of the film, the score it was rated on rotten tomatoes, as well as the gross world wide profit.
 **Skills**: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy Stats.
