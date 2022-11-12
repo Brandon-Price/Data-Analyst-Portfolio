@@ -10,7 +10,7 @@ This repository is going to be used to track my progress in Data Analytics and D
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
   * [Hollywood Movie Production Sales](#hollywood-movie-production-analysis-data)
-  * [Spotify Api Artist Playcount Tracker]
+  * [Spotify Api Artist Playcount Tracker](#spotify-api-artist-playcount-tracker)
 * [Certificates](#certificates)
 
 ## Portfolio Projects
